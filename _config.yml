@@ -43,9 +43,9 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            dbwork
-facebook:           default
-instagram:          default
+twitter:            
+facebook:           
+instagram:          
 github:             Lab-Piccoli
 
 plugins:
