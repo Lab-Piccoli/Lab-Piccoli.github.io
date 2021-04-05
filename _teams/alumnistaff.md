@@ -1,7 +1,7 @@
 ---
-name: Past Research Staff 
+name: Current Undergraduate Students 
 class: alumni
-appear: 8
+appear: 2
 description: 
 people: ["camilo"]
 ---
