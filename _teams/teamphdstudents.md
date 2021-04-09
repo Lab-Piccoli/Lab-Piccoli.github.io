@@ -1,7 +1,7 @@
 ---
 name: Current Ph.D. Students
 class: current
-appear: 2
+appear: 1
 description: 
 people: ["chrisd"]
 ---
