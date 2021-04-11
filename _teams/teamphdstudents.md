@@ -1,5 +1,5 @@
 ---
-name: Current Graduate Students
+name: Graduate Students
 class: current
 appear: 2
 description: 
