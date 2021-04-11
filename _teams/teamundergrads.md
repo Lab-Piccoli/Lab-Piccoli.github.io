@@ -1,5 +1,5 @@
 ---
-name: Current Undergraduate Researchers
+name:  Undergraduate Researchers
 class: current
 appear: 5
 description: 
