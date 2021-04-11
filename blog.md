@@ -1,7 +1,7 @@
 ---
-layout: blog
-title: Work Rearch Group News
-description: News and events in the Work Research Group
+layout: Lab Photos
+title: Piccoli Lab Pictures
+description: Pictures of Piccoli Lab
 sitemap:
     priority: 1.0
     lastmod: 2018-03-15
