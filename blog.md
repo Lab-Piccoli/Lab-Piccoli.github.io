@@ -1,5 +1,5 @@
 ---
-layout: Lab Photos
+layout: blog
 title: Piccoli Lab Pictures
 description: Pictures of Piccoli Lab
 sitemap:
