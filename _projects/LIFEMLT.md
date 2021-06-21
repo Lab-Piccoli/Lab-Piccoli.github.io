@@ -9,7 +9,7 @@ description: " <p> We show that deep learning models, and especially architectur
 
 funding: 
 
-students: 
+students: Christopher Denaro, Sean McQuade, Heba Yousef
 
 publications:
 
