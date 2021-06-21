@@ -1,5 +1,5 @@
 ---
 name: "Current Projects"
 order: 1
-projects: ["CovidNPI", "rail_eta", "rail_dispatch", "scooter_parking", "veh_traj_track", "radar_param_est", mix_traffic_est", "tensor_outlier", "mixed_autonomy_control"]
+projects: ["CovidNPI", "rail_eta"]
 ---
