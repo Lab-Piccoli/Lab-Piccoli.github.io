@@ -2,7 +2,7 @@
 layout: post
 title: "USDOT research grant for integrated corridor management"
 excerpt: "Funding secured along with our partners from the Tennessee Department of Transportation and the Southwest Research Institute."
-date: 2020-07-21
+date: 2020-05-02
 image: "/images/vu_tdot_swri.png"
 ---
 
