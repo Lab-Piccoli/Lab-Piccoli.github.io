@@ -13,9 +13,12 @@ and designing measures to reduce its spread.The aim of this project is to show h
 <p>This model was programmed using AMPL (a mathematical programming language) in which we use optimization techniques and data from throughout New Jersey to minimize the economic costs of the aforementioned parameters. For visualization and plotting we use Matlab to plot our results. </p>"
 
 
+
+funding: 
+
 students: "Ryan Weightman, Sean McQuade"
 
-
+publications: 
 
 image: /images/MapOfNJ.png
 ---
