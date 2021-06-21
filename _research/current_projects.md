@@ -1,5 +1,5 @@
 ---
 name: "Current Projects"
 order: 1
-projects: ["CovidNPI", "CovidVax", "CIRCLES","LIFE","LIFEMLT"]
+projects: ["CovidNPI", "CovidVax", "LIFE", "LIFEMLT", "CIRCLES"]
 ---
