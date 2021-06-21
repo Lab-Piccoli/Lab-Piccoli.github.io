@@ -18,5 +18,5 @@ publications: "<li>W. Barbour, J. C. Martinez Mori, S. Kuppa, D. Work. \"Estimat
 <li>W. Barbour, J. C. Martinez Mori, S. Kuppa, D. Work. \"Predicting Delay Occurrence at Freight Rail Sidings.\" <em>Proceedings of Transportation Research Board Annual Meeting, 2018</em> (to appear).</li>
 <li>W. Barbour, S. Kuppa, and D. Work. \"Supporting Automated Operations with Improved Arrival Time Predictions on US Freight Railroads.\" <em>in Proceedings of the the ITRL Conference on Integrated Transport, Stockholm, Sweden</em>, 2016. <strong>Download: </strong><a href='https://www.dropbox.com/s/ojet2nbntvfeo54/Barbouretal2017.pdf?dl=0'>preprint</a>.</li>"
 
-image: /images/route_feature_weights.jpg
+image: /images/MapOfNJ.png
 ---
