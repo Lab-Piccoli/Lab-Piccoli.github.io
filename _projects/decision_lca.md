@@ -1,15 +1,19 @@
 ---
-key: "decision_lca"
+key: "LIFE"
 
-order: 6
+order: 3
 
-name: "Decision Making with Data Uncertainty in Life Cycle Assessment"
+name: "Modeling metabolic systems via Linear-In-Flux-Expressions (LIFE)"
 
-description: "<p>In life cycle assessment, when product systems are optimized to minimize environmental impacts, uncertainty in the process data may impact optimal decisions. In this project, a robust optimization approach is proposed for decision making under uncertainty at the life cycle inventory stage. The level of protection against data uncertainty can be controlled to reflect varying degrees of conservatism. The left figure shows the comparison between the proposed robust optimization approach (red) and deterministic optimization approach (blue) in terms of carbon oxygen output for an electricity generation problem with varying degrees of protection against data uncertainty.</p>"
+description: "<p>We have designed a framework for modeling systems of biochemical reactions. Our research addresses the foundation of modeling complex reactions (between three or more molecules) and the capability of a drug to inhibit or enhance fluxes in the system. We introduce the concept of metabolic graphs, a generalization of hypergraphs having specialized features common to metabolic networks; these features are visualizations of the framework that corresponds to complex reaction dynamics and drug inhibition or enhancement.
+</p>
 
-students: "Ren Wang"
+<p>LIFE utilizes the flux space at equilibrium to reduce the total number model parameters. This allows one to impose the equilibrium structure of the model while exploring the sensitivity of the network to perturbations, such as drug treatment or illness. We have developed simulations to implement these tools, allowing us to analyze metabolic response to drug treatment. This is valuable to quantitative systems pharmacology, since combination treatment is time consuming and expensive to perform many experiments corresponding to the many potential combinations of drugs. 
+</p>"
 
-publications: "<li>\"Application of robust optimization in matrix-based LCI for decision making under uncertainty.\" R. Wang and D. Work, <em></em><em>International Journal of Life Cycle Assessment</em>, 19(5) ,pp. 1110-1118, 2014. <strong>Download: </strong><a href='https://www.dropbox.com/s/elvgcnmvjwi0i7t/IJLCA_WangWork.pdf'>preprint</a>, <a href='https://github.com/renwang/Robust_Optimization_LCI_Uncertainty'>source code</a>, <a href='http://link.springer.com/article/10.1007%2Fs11367-013-0685-y'>manuscript</a>.</li>"
+students: "Sean McQuade, Christopher Denaro, Heba Yousef"
 
-image: /images/LCA.png
+publications: 
+
+image: /images/MapOfNJ.png
 ---
