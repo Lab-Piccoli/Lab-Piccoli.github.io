@@ -1,5 +1,5 @@
 ---
-key: "LIFEMLT"
+key: "life-mlt"
 
 order: 4
 
