@@ -1,5 +1,5 @@
 ---
-key: "covidNPI"
+key: "CovidNPI"
 
 order: 1
 
