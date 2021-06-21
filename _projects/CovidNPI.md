@@ -1,7 +1,7 @@
 ---
-key: "Modeling the Control of COVID via Non-Pharmaceutical Intervention"
+key: "CovidNPI"
 
-order: 8
+order: 1
 
 name: "Modeling the Control of COVID via Non-Pharmaceutical Intervention"
 
