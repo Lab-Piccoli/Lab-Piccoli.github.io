@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Lunch at Friends Cafe!"
-excerpt: "
+excerpt: 
 date: 
 image: "/images/OldLabPhoto2.JPG"
 ---
