@@ -9,7 +9,9 @@ B.S., Biology, Zhejiang University, Hangzhou, China.
 
 Current position: Postdoctoral fellow in Professor Eduardo Sontag's lab at Northeastern University, Boston, MA, USA.
 
+degrees: "<li>M.S. and Ph.D., Computational and Integrative Biology, Rutgers University - Camden, NJ, USA. M.S. and Ph.D., Computational and Integrative Biology, Rutgers University - Camden, NJ, USA.</li>
 
+<li>B.S., Biology, Zhejiang University, Hangzhou, China.</li>"
 image: /images/people/zheming.JPG
 
 ---
