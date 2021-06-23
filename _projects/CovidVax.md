@@ -15,5 +15,5 @@ funding:
 students: "Ryan Weightman, Sean McQuade"
 
 publications: 
-image: /images/MapOfNJ.png
+image: /images/VaccinePolicy.png
 ---
