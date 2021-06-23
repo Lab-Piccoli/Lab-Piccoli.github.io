@@ -1,6 +1,6 @@
 ---
 name: Past Ph.D. Students
-class: alumni
+class: current
 appear: 2
 description: 
 people: ["zheming"]
