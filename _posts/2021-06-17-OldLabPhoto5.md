@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Playing some foosball"
+title: "Old Lab Photo"
 excerpt: 
 date: 2020-05-02
 image: "/images/OldLabPhoto5.png"
