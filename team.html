@@ -69,7 +69,7 @@ sitemap:
 {% assign sortedbyname = (site.people | sort: 'lastname') %}
 {% assign sortedbydate = (site.people | sort: 'degreedate') %}
 
-{% assign sorted = (site.teams | sort: 'appear') | where:"class", "current" %}
+{% assign sorted = (site.teams | sort: 'appear') | where:"class", "alumni" %}
 {% for team in sorted %}
 	{% if team.people.size > 0 %}
 		<h2>
