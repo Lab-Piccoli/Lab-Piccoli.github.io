@@ -11,4 +11,3 @@ degrees: "
 image: /images/people/nastassia.jpg
 
 ---
-
