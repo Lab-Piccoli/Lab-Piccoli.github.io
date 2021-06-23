@@ -12,7 +12,3 @@ image: /images/people/nastassia.jpg
 
 ---
 
-degrees: "
-<li> Current Position: Research scientist at Inria Paris in the team (Modeling and Analysis for Medical and Biological Applications) and at the <a href="https://www.ljll.math.upmc.fr/en/?lang=fr">Jacques-Louis Lions Laboratory</a> at Sorbonne University (Paris).</li>
-<li> Ph.D., Computational and Integrative Biology, Rutgers University - Camden, NJ, USA.</li>"
-image: /images/people/nastassia.jpg
