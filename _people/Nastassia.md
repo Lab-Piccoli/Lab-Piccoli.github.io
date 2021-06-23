@@ -8,6 +8,6 @@ description: I completed my PhD in 2017 in Dr. Piccoli’s lab, on mathematical 
 degrees: "
 <li> Current Position: Research scientist at Inria Paris in the team MAMBA (Modeling and Analysis for Medical and Biological Applications) and at the Jacques-Louis Lions Laboratory at Sorbonne University (Paris).
 <li> Ph.D., Computational and Integrative Biology, Rutgers University - Camden, NJ, USA.</li>"
-<!--image: /images/people/nastassia.JPG-->
+<!--image: /images/people/nastassia.jpg-->
 
 ---
