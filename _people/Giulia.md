@@ -7,6 +7,6 @@ description: In 2016, I got the PhD in Mathematics at the University of Trento (
 
 degrees: "
 "
-image: /images/people/nastassia.jpg
+image: /images/people/Giulia.jpg
 
 ---
