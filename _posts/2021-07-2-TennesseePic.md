@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Old Lab Photo"
+excerpt: 
+date: 2021-07-02
+image: "/images/TennesseePic.jpg"
+---
+
+ From Left to Right: -- ,Chris Denaro, -- Sean McQuade -- --.
