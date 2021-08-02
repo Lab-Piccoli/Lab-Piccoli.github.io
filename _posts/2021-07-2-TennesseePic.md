@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Old Lab Photo"
+title: "Tennessee"
 excerpt: 
 date: 2021-07-02
 image: "/images/TennesseePic.jpg"
