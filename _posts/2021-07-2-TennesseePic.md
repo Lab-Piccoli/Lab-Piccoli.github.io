@@ -6,4 +6,4 @@ date: 2021-07-02
 image: "/images/TennesseePic.jpg"
 ---
 
- From Left to Right: -- ,Chris Denaro, -- Sean McQuade --, Ryan De Lorenzo.
+ From Left to Right: Jonny Lee ,Chris Denaro, Xiaoqian Gong, Sean McQuade, Maria Teresa Chiri, Ryan De Lorenzo.
