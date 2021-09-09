@@ -11,5 +11,5 @@ students: "Christopher Denaro, Sean McQuade, Heba Yousef"
 
 publications:
 
-image: /images/MapOfNJ.png
+image: /images/Graphics_01.png
 ---
