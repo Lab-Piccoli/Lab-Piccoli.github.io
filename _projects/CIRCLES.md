@@ -16,5 +16,5 @@ students: "Sean McQuade"
 publications:
 
 
-image: /images/MapOfNJ.png
+image: /images/char_sim-1 (dragged).tiff
 ---
