@@ -15,5 +15,5 @@ students: "Sean McQuade, Christopher Denaro, Heba Yousef"
 
 publications: 
 
-image: /images/MapOfNJ.png
+image: /images/central_carbon_fixed_edge.png
 ---
