@@ -15,6 +15,5 @@ students: "Sean McQuade"
 
 publications:
 
-
-video:  char_sim-1 (dragged).tiff
+image: /images/char_sim-1 (dragged).tiff
 ---
