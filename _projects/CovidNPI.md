@@ -9,9 +9,7 @@ description: "<p>The COVID-19 outbreak gave rise to an unprecedented production 
 
 
 
-funding: This work is supported by the NSF CMMI project \# 2033580 "Managing pandemic by managing mobility"
-in collaboration with Cornell University and Vanderbilt University,
-and the support of the Joseph and Loretta Lopez Chair endowment.
+funding: This work is supported by the NSF CMMI project  2033580 "Managing pandemic by managing mobility" in collaboration with Cornell University and Vanderbilt University, and the support of the Joseph and Loretta Lopez Chair endowment.
 
 students: "Ryan Weightman, Sean McQuade"
 
