@@ -16,5 +16,5 @@ students: "Sean McQuade"
 publications:
 
 
-video:   src="https://www.youtube.com/embed/2mBjYZTeaTc?autoplay=1&amp;mute=1&amp;loop=1"
+video:   <iframe width="560" height="315" src="https://www.youtube.com/embed/N-uT5n7vSHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
