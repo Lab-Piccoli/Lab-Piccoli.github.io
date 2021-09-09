@@ -11,6 +11,7 @@ description: "<p>We have designed a framework for modeling systems of biochemica
 <p>LIFE utilizes the flux space at equilibrium to reduce the total number model parameters. This allows one to impose the equilibrium structure of the model while exploring the sensitivity of the network to perturbations, such as drug treatment or illness. We have developed simulations to implement these tools, allowing us to analyze metabolic response to drug treatment. This is valuable to quantitative systems pharmacology, since combination treatment is time consuming and expensive to perform many experiments corresponding to the many potential combinations of drugs. 
 </p>"
 
+funding: This work is supported by the Joseph and Loretta Lopez Chair endowment.
 students: "Sean McQuade, Christopher Denaro, Heba Yousef"
 
 publications: 
