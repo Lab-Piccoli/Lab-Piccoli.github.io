@@ -12,6 +12,6 @@ degrees: "
 <li>The master of public policy from Ecole des Ponts Paristech and AgroParistech in 2016 </li> 
 <li>The PhD from Sorbonne University in 2019 under the supervision of Jean-Michel Coron. In 2019 - 2020, I was a postdoctoral associate in Benedetto Piccoli's lab.</li> 
 "
-image: /images/people/amaury.jpg
+image: /images/people/amaury.png
 
 ---
