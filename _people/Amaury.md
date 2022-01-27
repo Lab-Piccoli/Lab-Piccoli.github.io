@@ -1,17 +1,12 @@
-
 ---
-key: "amaury"
-firstname: "Amaury"
-lastname: "Hayat"
-degreedate: 2021-05-02
-description: I am currently an Assistant Professor (Chargé de recherche) at Ecole des Ponts Paristech. I am interested in the control and stabilization of nonlinear partial differential equations and in particular of hyperbolic systems. I am also working on teaching mathematics to a neural network and using deep language models to predict mathematical results.
+key: "giulia"
+firstname: "Giulia"
+lastname: "Cavagnari"
+degreedate: 2021-05-01
+description: In 2016, I got the PhD in Mathematics at the University of Trento (Italy) under the supervision of Antonio Marigonda. From January to November 2017 I joined Benedetto Piccoli's lab as a postdoc. From November 2017 to December 2019, I was postdoc at the Department of Mathematics of the University of Pavia, under the supervision of Giuseppe Savaré. Since December 2019, I am an Assistant Professor (Joung Researcher- RTDa) in Mathematical Analysis at the Department of Mathematics of Politecnico di Milano, Milan (Italy) . My research is focused on evolution equations in Wasserstein spaces with applications in control theory.
 
 degrees: "
-Received the engineering degree from Ecole Polytechnique in 2014
-The master's degree from the University of Cambridge in 2015 
-The master of public policy from Ecole des Ponts Paristech and AgroParistech in 2016 
-the PhD from Sorbonne University in 2019 under the supervision of Jean-Michel Coron. In 2019 - 2020, I was a postdoctoral associate in Benedetto Piccoli's lab.
 "
-image: /images/people/amaury.jpg
+image: /images/people/Giulia.jpg
 
 ---
