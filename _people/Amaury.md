@@ -12,6 +12,6 @@ The master's degree from the University of Cambridge in 2015
 The master of public policy from Ecole des Ponts Paristech and AgroParistech in 2016 
 the PhD from Sorbonne University in 2019 under the supervision of Jean-Michel Coron. In 2019 - 2020, I was a postdoctoral associate in Benedetto Piccoli's lab.
 "
-image: /images/people/Giulia.jpg
+image: /images/people/amaury.jpg
 
 ---
