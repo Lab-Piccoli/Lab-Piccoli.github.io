@@ -1,7 +1,7 @@
 ---
 name: Past Postdoctoral Researchers
 class: alumni
-appear: 2
+appear: 3
 description: 
 people: ["amaury", "giulia", "mariaLaura"]
 ---
