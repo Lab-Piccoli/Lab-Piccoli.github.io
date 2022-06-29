@@ -1,7 +1,7 @@
 ---
 name: Current M.S. Students
 class: current
-appear: 1
+appear: 0
 description: 
-people: ["Mansour"]
+people: []
 ---
