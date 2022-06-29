@@ -1,7 +1,7 @@
 ---
 name: Current M.S. Students
 class: current
-appear: 0
+appear: 3
 description: 
 people: []
 ---
