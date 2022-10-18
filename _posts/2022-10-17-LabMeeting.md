@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Old Lab Photo"
+title: "Lab meeting Photo"
 excerpt: 
-date: 2020-05-02
+date: 2022-05-02
 image: "/images/LabMeeting.jpg"
 ---
 
