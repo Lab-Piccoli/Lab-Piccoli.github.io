@@ -8,12 +8,12 @@
 
 	#wrapper {
 		@include vendor('transition', 'opacity #{_duration(menu)} ease');
-		position: fixed;
+		position: local;
 		z-index: 1;
 		overflow: hidden;
 
 		> .bg {
-			position: fixed;
+			position: local;
 			top: 0;
 			left: 0;
 			width: 100%;
@@ -23,11 +23,11 @@
 			background-size:		auto,								auto,														100% auto;
 			background-position:	center,								center,														top center;
 			background-repeat:		repeat,								no-repeat,													no-repeat;
-			background-attachment:	fixed,								fixed,														fixed;
+			background-attachment:	fixed,								fixed,														local;
 			z-index: -1;
 
 			&.fixed {
-				position: fixed;
+				position: local;
 				width: 100vw;
 				height: 1000vh;
 			}
@@ -44,7 +44,7 @@
 				height: 100%;
 				left: 0;
 				opacity: 0;
-				position: fixed;
+				position: local;
 				top: 0;
 				width: 100%;
 			}
@@ -78,7 +78,7 @@
 				height: 100%;
 				left: 0;
 				opacity: 0;
-				position: fixed;
+				position: local;
 				top: 0;
 				width: 100%;
 			}
