@@ -71,7 +71,7 @@
 			&:before {
 				@include vendor('pointer-events', 'none');
 				@include vendor('transition', 'opacity 1s ease-in-out');
-				@include vendor('transition-delay', '0.75s');
+				@include vendor('transition-delay', '8.25s');
 				background: _palette(invert, bg);
 				content: '';
 				display: block;
