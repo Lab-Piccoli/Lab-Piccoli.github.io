@@ -1750,13 +1750,13 @@
 
 	sub {
 		font-size: 0.8rem;
-		position: local;
+		position: relative;
 		top: 0.5rem;
 	}
 
 	sup {
 		font-size: 0.8rem;
-		position: local;
+		position: relative;
 		top: -0.5rem;
 	}
 
@@ -1930,7 +1930,7 @@
 			input[type="button"].icon.solo:before,
 			button.icon.solo:before,
 			.button.icon.solo:before {
-				position: local;
+				position: absolute;
 				display: block;
 				top: 0;
 				left: 0;
@@ -2196,7 +2196,7 @@
 	.select-wrapper {
 		text-decoration: none;
 		display: block;
-		position: local;
+		position: relative;
 	}
 
 		.select-wrapper:before {
@@ -2214,7 +2214,7 @@
 			height: 3rem;
 			line-height: 3rem;
 			pointer-events: none;
-			position: local;
+			position: absolute;
 			right: 0;
 			text-align: center;
 			top: 0;
@@ -2262,7 +2262,7 @@
 			font-weight: 300;
 			padding-left: 2.8rem;
 			padding-right: 1rem;
-			position: local;
+			position: relative;
 		}
 
 			input[type="checkbox"] + label:before,
@@ -2283,7 +2283,7 @@
 				height: 1.8rem;
 				left: 0;
 				line-height: 1.725rem;
-				position: local;
+				position: absolute;
 				text-align: center;
 				top: -0.125rem;
 				width: 1.8rem;
@@ -2394,7 +2394,7 @@
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
-		position: local;
+		position: relative;
 	}
 
 		.icon:before {
@@ -2415,7 +2415,7 @@
 	.image {
 		border: 0;
 		display: inline-block;
-		position: local;
+		position: relative;
 	}
 
 		.image img {
@@ -2719,7 +2719,7 @@
 			font-size: 0.8rem;
 			height: 1;
 			margin: 0 0 1rem 0;
-			position: local;
+			position: relative;
 		}
 
 		header > p {
@@ -2769,7 +2769,7 @@
 				header.major > .date:before, header.major > .date:after {
 					content: '';
 					display: block;
-					position: local;
+					position: absolute;
 					top: 50%;
 					width: calc(50% - 6rem);
 					border-top: solid 2px;
@@ -2931,7 +2931,7 @@
 			line-height: calc(3rem - 4px);
 			margin-left: -2px;
 			min-width: 3rem;
-			position: local;
+			position: relative;
 			text-align: center;
 			text-decoration: none;
 			text-transform: uppercase;
@@ -3016,28 +3016,28 @@
 		-webkit-transition: opacity 0.5s ease;
 		-ms-transition: opacity 0.5s ease;
 		transition: opacity 0.5s ease;
-		position: local;
+		position: relative;
 		z-index: 1;
 		overflow: hidden;
 	}
 
 		#wrapper > .bg {
-			position: local;
+			position: absolute;
 			top: 0;
 			left: 0;
 			width: 100%;
 			height: 100%;
 			background-color: #212931;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
-			background-size: 100%,								100%,														100% ;
-			background-position: local,								local,														top center;
+			background-size: auto,								auto,														100% auto;
+			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
-			background-attachment: local,								local,														local;
+			background-attachment: scroll,								scroll,														scroll;
 			z-index: -1;
 		}
 
 			#wrapper > .bg.fixed {
-				position: local;
+				position: fixed;
 				width: 100vw;
 				height: 100vh;
 			}
@@ -3061,7 +3061,7 @@
 			height: 100%;
 			left: 0;
 			opacity: 0;
-			position: local;
+			position: fixed;
 			top: 0;
 			width: 100%;
 		}
@@ -3103,7 +3103,7 @@
 		-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 		transition: opacity 1s ease, transform 1s ease;
-		position: local;
+		position: relative;
 		cursor: default;
 		text-align: center;
 		z-index: 1;
@@ -3427,7 +3427,7 @@
 		margin: -4rem auto 0 auto;
 		overflow: hidden;
 		padding: 0 2rem 0 0;
-		position: local;
+		position: relative;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
@@ -3563,7 +3563,7 @@
 
 	#main {
 		background-color: #ffffff;
-		position: local;
+		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
@@ -3762,7 +3762,7 @@
 		background-color: #f5f5f5;
 		color: #909498;
 		cursor: default;
-		position: local;
+		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
@@ -4293,7 +4293,7 @@
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		display: none;
-		position: local;
+		position: fixed;
 		top: 0.75rem;
 		right: 0.75rem;
 		border: 0;
@@ -4359,7 +4359,7 @@
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		display: none;
 		-webkit-overflow-scrolling: touch;
-		background: fixed;
+		background: #ffffff;
 		box-shadow: none;
 		color: #212931;
 		height: 100%;
