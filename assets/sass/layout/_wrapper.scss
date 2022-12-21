@@ -8,12 +8,12 @@
 
 	#wrapper {
 		@include vendor('transition', 'opacity #{_duration(menu)} ease');
-		position: relative;
+		position: fixed;
 		z-index: 1;
 		overflow: hidden;
 
 		> .bg {
-			position: absolute;
+			position: fixed;
 			top: 0;
 			left: 0;
 			width: 100%;
