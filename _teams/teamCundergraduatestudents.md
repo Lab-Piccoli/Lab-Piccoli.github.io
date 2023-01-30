@@ -1,7 +1,7 @@
 ---
-name: Undergraduate Students Students
+name: Undergraduate Students
 class: current
-appear: 7
+appear: 2
 description: 
-people: ["ryanD"]
+people: ["ryanD", "anthony"]
 ---
