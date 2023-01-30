@@ -1,4 +1,3 @@
-
 ---
 name: Graduate Students
 class: current
