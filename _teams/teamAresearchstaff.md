@@ -1,7 +1,7 @@
 ---
 name: Current Research Staff
 class: current
-appear: 2
+appear: 1
 description: 
 people: ["sean", "Zhang"]
 ---
