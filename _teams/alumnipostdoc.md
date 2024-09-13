@@ -3,5 +3,5 @@ name: Past Postdoctoral Researchers
 class: alumni
 appear: 3
 description: 
-people: ["amaury", "giulia", "mariaLaura"]
+people: ["amaury", "giulia", "mariaLaura", "sean", "zhang"]
 ---
