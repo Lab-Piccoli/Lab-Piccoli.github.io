@@ -1,7 +1,7 @@
 ---
 name: Graduate Students
 class: current
-appear: 2
+appear: 1
 description: 
 people: ["Denaro", "Weightman"]
 ---
