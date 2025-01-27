@@ -1,7 +1,7 @@
 ---
 name: Undergraduate Researchers
 class: current
-appear: 3
+appear: 2
 description: 
 people: []
 ---
