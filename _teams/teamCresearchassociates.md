@@ -1,5 +1,5 @@
 ---
-name: Lab Associates and Friends
+name: Lab Associates
 class: current
 appear: 3
 description: 
