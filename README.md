@@ -14,7 +14,7 @@ In order to make more complex updates to the site, it is recommended to set up t
 The very brief version of the instructions is as follows:
 1) Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard and particularly easy with a package manager like Homebrew.
 
-2) Download the current version of [this repository](https://github.com/Lab-Work/Lab-Work.github.io/archive/master.zip), save it to any folder you want, and unzip it. Alternatively, you can [clone this repository](https://github.com/Lab-Work/Lab-Work.github.io.git) via ```git```. It is recommended to download the source files and construct a new repo for replicating the site, not forking this repo.
+2) Download the current version of [this repository]
 
 3) Open a terminal window or a command line and ```cd``` to that location.
 
@@ -23,7 +23,7 @@ The very brief version of the instructions is as follows:
 ## Source file structure
 This section explains the repository's source file structure, including basic descriptions of the content of each directory or file. The structure may seem convoluted, but it is designed with modularity and easy updates in mind. A basic understanding of this structure is all that is needed to make minor updates to website content using a simple text editor (no HTML coding needed).
 
-	Lab-Work.github.io
+	
 	|---- _bibliography				(ToDo) directory for publications bibliography
 	|---- _data						YML data files for lists of things
 	|---- _includes					HTML templates for page elements
@@ -52,7 +52,7 @@ This section explains the repository's source file structure, including basic de
 	|- _config.yml					site configuration file
 	|- about.html					site page: Dan's "About" page
 	|- blog.md						site page: blog main page/full listing
-	|- data.html					site page: public datasets from past work
+	|- data.html					site page: public datasets from past
 	|- elements.html				unlisted site page for style/element ref (useful)
 	|- Gemfile + Gemfile.lock		site dependencies
 	|- google...html				site-specific Google analytics indicator
@@ -62,9 +62,9 @@ This section explains the repository's source file structure, including basic de
 	|- README.md					this file
 	|- robots.txt					tells site crawlers what pages/files not to index
 	|- research.html				site page: research projects
-	|- service.html					(ToDo) site page: Dan's service work
+	|- service.html					(ToDo) site page:
 	|- sitemap.xml					(ToDo update?) site map that helps SEO + indexing
-	|- teaching.html				site page: Dan's teaching work
+	|- teaching.html				site page:
 	|- team.html					site page: group team members
 
 
