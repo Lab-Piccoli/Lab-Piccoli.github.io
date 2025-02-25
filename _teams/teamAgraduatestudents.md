@@ -3,5 +3,5 @@ name: Graduate Students
 class: current
 appear: 1
 description: 
-people: ["Denaro", "Weightman"]
+people: ["Denaro", "Weightman", "Akinde"]
 ---
