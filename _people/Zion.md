@@ -10,7 +10,8 @@ public health, with a focus on using computational tools to address real-world h
 My current research involves developing an epidemiological model to monitor HPV-related
 cancers across the state of New Jersey. The goal of this work is to provide data-driven insights
 that can support public health officials and policymakers in improving vaccination strategies and
-outreach efforts for HPV prevention. <a href="mailto:zwh2@scarletmail.rutgers.edu">Email Me</a> 
+outreach efforts for HPV prevention.
+ <a href="mailto:zwh2@scarletmail.rutgers.edu">Email Me</a> 
 
 image: /images/people/Zion.jpeg
 
