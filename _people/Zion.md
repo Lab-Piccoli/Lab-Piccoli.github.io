@@ -3,7 +3,7 @@ key: "Zion"
 firstname: "Zion"
 lastname: "Harris"
 degreedate: 2026-05-01
-description: I am a master’s student in the Center for Computational and Integrative Biology (CCIB) at
+description: I am a master's student in the Center for Computational and Integrative Biology (CCIB) at
 Rutgers University–Camden. I hold a B.S. in Computer Science from Lincoln University of
 Pennsylvania. My academic interests lie at the intersection of computer science, biology, and
 public health, with a focus on using computational tools to address real-world health challenges.
